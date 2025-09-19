@@ -1,0 +1,182 @@
+{
+  "venues": [
+    {
+      "date": "31-08-2025",
+      "time": "11 AM - 5 PM",
+      "banner_url": "meet_bangalore",
+      "location": "Bangalore",
+      "shop_name": "Starbucks",
+      "address": "Between Hp, BRIGADE METROPOLIS, GroundFloor, Whitefield Road, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560048",
+      "location_link": "https://maps.app.goo.gl/Su4yEFA9kK6eMhwF7",
+      "open_time": "9AM"
+    },
+    {
+      "date": "28-09-2025",
+      "time": "11 AM - 5 PM",
+      "banner_url": "meet_coimbatore",
+      "location": "Coimbatore",
+      "shop_name": "Starbucks",
+      "address": "J10, Blk, WN, A13/1078, 44, Avinashi Rd, near The Lakshmi Mills, Anupperpalayam, Pappanaickenpalayam, Coimbatore, Tamil Nadu 641037",
+      "location_link": "https://maps.app.goo.gl/di8LauoTFyUSpzE18",
+      "open_time": "9AM"
+    },
+    {
+      "date": "26-10-2025",
+      "time": "11 AM - 5 PM",
+      "banner_url": "meet_erode",
+      "location": "Erode",
+      "shop_name": "Hotel Turmeric",
+      "address": "HOTEL TURMERIC, 9/2, Perundurai Rd, near FORCE MOTOR SHOW ROOM, Maruthi Nagar, Nalliyampalayam, Thindal, Erode, Tamil Nadu 638012",
+      "location_link": "https://maps.app.goo.gl/TSa5wLFWp4FsPFvD7",
+      "open_time": "7.30AM"
+    },
+    {
+      "date": "30-11-2025",
+      "time": "11 AM - 5 PM",
+      "banner_url": "meet_chennai",
+      "location": "Chennai",
+      "shop_name": "Starbucks",
+      "address": "No 142, Phoenix Market City, Velachery Rd, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "location_link": "https://maps.app.goo.gl/5VsSddjvyZTyv6sx7",
+      "open_time": "10AM"
+    },
+    {
+      "date": "28-12-2025",
+      "time": "11 AM - 5 PM",
+      "banner_url": "meet_madurai",
+      "location": "Madurai",
+      "shop_name": "The tea coterie",
+      "address": "Dr Thangaraj Salai, Mellur, Vinayakapuram, Alwarpuram, Madurai, Tamil Nadu 625020",
+      "location_link": "https://maps.app.goo.gl/R8q6gQik84z2PSJK9",
+      "open_time": "7AM"
+    },
+    {
+      "date": "25-01-2026",
+      "time": "11 AM - 5 PM",
+      "banner_url": "meet_salem",
+      "location": "Salem",
+      "shop_name": "Cafe Coffee day",
+      "address": "IOC, Chengapalli, NH 47, Salem - Kochi Hwy, Coimbatore, Chengappalli, Tamil Nadu 638812",
+      "location_link": "https://maps.app.goo.gl/SxSoKf3SDabCmVzm7",
+      "open_time": "24hours"
+    },
+    {
+      "date": "22-02-2026",
+      "time": "11 AM - 5 PM",
+      "banner_url": "meet_ooty",
+      "location": "Ooty",
+      "shop_name": "Le cofe",
+      "address": "Littlearth Square, Oriental Buildings, Commissioner's Road, Summer House Colony, Upper Bazar, Ooty, Tamil Nadu 643001",
+      "location_link": "https://maps.app.goo.gl/UzkRdVcmegE7JDAy9",
+      "open_time": "10AM"
+    },
+    {
+      "date": "29-03-2026",
+      "time": "11 AM - 5 PM",
+      "banner_url": "meet_trichy",
+      "location": "Trichy",
+      "shop_name": "Cafe Coffee day ",
+      "address": "No. 17B, Ground Flr, Thillai Nagar Main Rd, near Lakshmi Arcade, West Thillai Nagar, Tennur, Tiruchirappalli, Tamil Nadu 620018",
+      "location_link": "https://maps.app.goo.gl/Qnw5XUFg9aF4m8C46",
+      "open_time": "9AM"
+    }
+  ],
+  "teams": [
+    {
+      "name": "சரவணன் ராகவேந்திரன்",
+      "title": "மூத்த ஆசிரியர்",
+      "image_url": "https://cdn1.kadalpura.com/articles/author_image/3.png",
+
+    },
+    {
+      "name": "மீனாட்சி சிவகுமார்",
+      "title": "மூத்த ஆசிரியர்",
+      "image_url": "https://cdn1.kadalpura.com/articles/author_image/4.png"
+    },
+    {
+      "name": "நிஷாந்த் துரைசாமி",
+      "title": "ஆசிரியர்",
+      "image_url": "https://cdn1.kadalpura.com/articles/author_image/5.png"
+    },
+    {
+      "name": "சுதாகர் கணகராஜ்",
+      "title": "ஆசிரியர்",
+      "image_url": "https://cdn1.kadalpura.com/articles/author_image/6.png"
+    },
+    {
+      "name": "திவாகர் ராஜன்",
+      "title": "ஆசிரியர்",
+      "image_url": "https://cdn1.kadalpura.com/articles/author_image/7.png"
+    },
+    {
+      "name": "வெங்கட் செல்வகுமார்",
+      "title": "ஆசிரியர்",
+      "image_url": "https://cdn1.kadalpura.com/articles/author_image/8.png"
+    },
+    {
+      "name": "சுரேந்தர் பாண்டியன்",
+      "title": "ஆசிரியர்",
+      "image_url": "https://cdn1.kadalpura.com/articles/author_image/9.png"
+    },
+    {
+      "name": "விஷ்ணு பிரகாஷ்",
+      "title": "ஆசிரியர்",
+      "image_url": "https://cdn1.kadalpura.com/articles/author_image/10.png"
+    },
+    {
+      "name": "மிதுன் பாஸ்கர்",
+      "title": "ஆசிரியர்",
+      "image_url": "https://cdn1.kadalpura.com/articles/author_image/11.png"
+    },
+    {
+      "name": "ஹரிஹரன் சிங்காரவேலு",
+      "title": "ஆசிரியர்",
+      "image_url": "https://cdn1.kadalpura.com/articles/author_image/12.png"
+    },
+    {
+      "name": "லட்சுமி நாராயணன்",
+      "title": "மூத்த ஆசிரியர்",
+      "image_url": "https://cdn1.kadalpura.com/articles/author_image/16.png"
+    },
+    {
+      "name": "ஹரிஹரன் ராஜேந்திரன்",
+      "title": "மூத்த ஆசிரியர்",
+      "image_url": "https://cdn1.kadalpura.com/articles/author_image/17.png"
+    },
+    {
+      "name": "முனைவர் வி மஹாலிங்கம்",
+      "title": "கௌரவ ஆசிரியர், கோவை",
+      "image_url": "https://cdn1.kadalpura.com/articles/author_image/19.png"
+    },
+    {
+      "name": "லாவண்யா சுதாகர்",
+      "title": "கம்பெனி நிர்வாகம் & மேலாண்மை",
+      "image_url": "https://cdn1.kadalpura.com/articles/author_image/20.png"
+    },
+    {
+      "name": "மெய்யரசு",
+      "title": "செயலி பயன்பாடு பொறியாளர்",
+      "image_url": "https://cdn1.kadalpura.com/articles/author_image/21.png"
+    },
+    {
+      "name": "கெளதம்",
+      "title": "செயலி மென்பொருள் கட்டமைப்பாளர்",
+      "image_url": "https://cdn1.kadalpura.com/articles/author_image/22.png"
+    },
+    {
+      "name": "நிதிஷ் சரண்",
+      "title": "செயலி மென்பொருள் கட்டமைப்பாளர்",
+      "image_url": "https://cdn1.kadalpura.com/articles/author_image/23.png"
+    },
+    {
+      "name": "பிரதிபா",
+      "title": "ஆசிரியர்",
+      "image_url": "https://cdn1.kadalpura.com/articles/author_image/24.png"
+    },
+    {
+      "name": "அஸ்வின்",
+      "title": "வணிக மேலாண்மை",
+      "image_url": "https://cdn1.kadalpura.com/articles/author_image/25.png"
+    }
+  ]
+}
